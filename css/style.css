@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+}
+
+.kalo{
+    height: 600px;
+    width: 200px;
+    background-color: black;
+    display: block;
+}
+.holud{
+    height: 600px;
+    width: 200px;
+    background-color:yellow;
+    display: block;
+}
+.brown{
+    height: 600px;
+    width: 200px;
+    background-color: brown;
+    display: block;
+}
